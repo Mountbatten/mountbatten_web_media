@@ -12,7 +12,6 @@ dependencies[] = filter
 dependencies[] = flexslider
 dependencies[] = flexslider_picture
 dependencies[] = flexslider_views
-dependencies[] = flexslider_views_slideshow
 dependencies[] = media
 dependencies[] = media_wysiwyg
 dependencies[] = media_wysiwyg_view_mode
